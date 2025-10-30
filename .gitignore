@@ -1,0 +1,10 @@
+*.asv
+*.fig
+*.mat
+*.mdl
+*.slx
+*.mex*
+*.bak
+.DS_Store
+Thumbs.db
+
